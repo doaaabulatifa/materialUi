@@ -6,8 +6,7 @@ export default function MaterialComponents() {
      
       <MiniVariantDrawer />
       <h3>Usage:
-The mini variant is recommended for app sections that need quick selection access alongside content.
-It provides a compact navigation option while still allowing access to important sections1.</h3>
+The mini variant is recommended for app sections that need quick selection access alongside content.</h3>
           </div>
   );
 }
