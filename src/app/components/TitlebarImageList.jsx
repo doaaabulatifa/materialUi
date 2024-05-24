@@ -27,7 +27,7 @@ export default function TitlebarImageList() {
               src={`${item.img}?w=248&fit=crop&auto=format`}
               alt={item.title}
               loading="lazy"
-              onClick={() => changeBackground(item.img)}
+              onClick={() => changeBackground(item.img)} // add onclick function
               style={{ cursor: 'pointer' }}
             />
             <ImageListItemBar
