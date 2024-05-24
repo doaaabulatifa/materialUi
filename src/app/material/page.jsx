@@ -8,6 +8,7 @@ export default function Material() {
       <p>Basic speed dial
 
 The floating action button can display related actions.</p>
+<h3>The Speed Dial is a floating action button that can display related actions when pressed.</h3>
       <BasicSpeedDial />
     
     </div>
